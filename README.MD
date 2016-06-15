@@ -3,3 +3,5 @@
 I'M LEARNING GIT HERE.
 
 THIS IS MY COMMENT.
+
+nekaj novega
